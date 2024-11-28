@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### I love lints:
+- https://github.com/lengyijun/use_crate_prefix_for_self_imports
+- https://github.com/lengyijun/explicit_reinitialization
+
 <!--
 **lengyijun/lengyijun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
