@@ -5,6 +5,7 @@
 - https://github.com/lengyijun/explicit_reinitialization
 
 ### I'm fish user
+- https://github.com/lengyijun/awsm.fish
 - https://github.com/lengyijun/fc-fish
 - https://github.com/BrewingWeasel/fishbang
 - I have a awesome clone of fish-shell
