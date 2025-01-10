@@ -9,6 +9,7 @@
 - https://github.com/lengyijun/fc-fish
 - https://github.com/BrewingWeasel/fishbang
 - https://github.com/lengyijun/autocd-fish
+- [auto cd after git clone](https://gist.github.com/lengyijun/21c552cefd6a2d802d95e017513d47e3)
 - I have a awesome clone of fish-shell
   - [![asciicast](https://asciinema.org/a/605507.svg)](https://asciinema.org/a/605507)
   
